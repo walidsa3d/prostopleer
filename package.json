@@ -1,0 +1,17 @@
+{
+  "name": "prostopleer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pleer",
+    "music",
+    "mp3",
+    "api"
+  ],
+  "author": "Walid Saad",
+  "license": "MIT"
+}
